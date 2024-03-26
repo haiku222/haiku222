@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @haiku222
 - 👀 I’m interested in web design (css, html, javascript) and data analysis languages (SQL, Python) codes.
-- 🌱 I’m currently learning CSS, HTML & Javascript for website building.
-- 🌱 I just finished a Data Analytics Bootcamp (Summer 2022) covering advanced Excel and data visualization with Tableau.
+- 🌱 I’m currently learning SQL for work in the HR Staffing field.
+- 🌱 My background is in web design and development, previously working with CSS, HTML & Javascript, but currently I only regularly dabble in HTML for basic webpages.
 - 📫 How to reach me: mmzimme2@asu.edu or @haiku222 on most social media.
 
 <!---
